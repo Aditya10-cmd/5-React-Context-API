@@ -1,3 +1,7 @@
+🚀 Currently Learning: React Context API
+<img width="1470" alt="Screenshot 2025-05-14 at 11 40 58 AM" src="https://github.com/user-attachments/assets/d25aeb03-e07e-4fe7-8609-12a413f23ea9" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
